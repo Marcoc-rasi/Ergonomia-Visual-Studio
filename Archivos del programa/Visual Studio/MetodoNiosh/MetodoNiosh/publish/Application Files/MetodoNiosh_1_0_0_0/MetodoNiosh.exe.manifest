@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MetodoNiosh.exe" version="1.0.0.0" publicKeyToken="23c8d0473c06cc17" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MetodoNiosh" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MetodoNiosh.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DocumentFormat.OpenXml.dll" size="4905336">
+      <assemblyIdentity name="DocumentFormat.OpenXml" version="2.11.3.0" publicKeyToken="8FB06CB64D019A17" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ryRd/SKJpPUGdNugDU8eYrPM2AekSWFAcxOqA/iEKE8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetodoNiosh.exe" size="1016800">
+      <assemblyIdentity name="MetodoNiosh" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7rFC8xI7Yob9kVVdnK76f/wBoFBViQOJkF1VmaOpsFw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SpreadsheetLight.dll" size="1432576">
+      <assemblyIdentity name="SpreadsheetLight" version="3.5.0.0" publicKeyToken="32FBB46DC1730C57" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qvvJCBFW0Yb+HnF5MKkqpQUWCxK4YtSxS4bhk5F50j4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Drawing.Common.dll" size="51248">
+      <assemblyIdentity name="System.Drawing.Common" version="4.0.0.1" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X6ss9XMR2B9Nfflq0TpTJ1rlTP+2nsLkunt9xwaggKE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.IO.Packaging.dll" size="42568">
+      <assemblyIdentity name="System.IO.Packaging" version="4.0.5.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>2ePr4MIIbKxGWlVQaB5aZfrhwn1nXLZJ5tLBmTb7HU8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MetodoNiosh.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-54NFFOL\uriel" issuerKeyHash="765143246f401f73029dcc734641d0615816b839" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rljiQHNDhzhP28BSIMJ5YPt9iKkLNyjcnKIM0feX1J4=</DigestValue></Reference></SignedInfo><SignatureValue>kLWc81/6T6Dap27gnCOR1yKesQF74rC3NjjaZMvZDjXMhMr+F4DE6kG0XDzKy+sC/aelchZq0fDe9sk40rU+ukb8KESXKQF8xnXS4xginJLxklTjW1RMAtFutXfJsdcZLS6/tGhkPdYwF4N1L9PS3sTgFwmnWMgUPAXzkACy+fU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>08r/ojJ+gXrkGvGHNKMyxafqkqIhLHXIi0wtAF0dVanlsT1r2YCqX31TN0dOeRy9560BDTn5gce9DBsVVYgLThAInnUNyxmqoyAmh5hGi9PhYbfb2dlh2skcGxnx6N71GfuwTI+wCiXdaXCVdHCvaHqxPgdooXwkNfdkMSDBOqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9ed497f7d10ca29cdc28370ba9887dfb6079c22052c0db4f3887437340e258ae" Description="" Url=""><as:assemblyIdentity name="MetodoNiosh.exe" version="1.0.0.0" publicKeyToken="23c8d0473c06cc17" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-54NFFOL\uriel</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vqc2hu3pDLFRXG4cParLIE4SUlD2DpFX+ZTlQtFPsuE=</DigestValue></Reference></SignedInfo><SignatureValue>jy3pdsWT/qL/AVTyT47A5R7QvEpdo/eOBgFgTzD9cYqD/jN+rR9lk4qsA2RJkWE3zYVBU7O8xWWn7/NpseF64pYFtRJi03SrpI1khvp+PjORCgsW2zTGpUWXkkFUvgvlXmznN4wkrVdztGyP+Ewp1/TGsq7ji3axkUtpkC89LxY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>08r/ojJ+gXrkGvGHNKMyxafqkqIhLHXIi0wtAF0dVanlsT1r2YCqX31TN0dOeRy9560BDTn5gce9DBsVVYgLThAInnUNyxmqoyAmh5hGi9PhYbfb2dlh2skcGxnx6N71GfuwTI+wCiXdaXCVdHCvaHqxPgdooXwkNfdkMSDBOqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQWDFC2Dr+HIFPXrg4ByQfszANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADUANABOAEYARgBPAEwAXAB1AHIAaQBlAGwwHhcNMjIwNjE0MDIyMjQxWhcNMjMwNjE0MDgyMjQxWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADUANABOAEYARgBPAEwAXAB1AHIAaQBlAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANPK/6IyfoF65BrxhzSjMsWn6pKiISx1yItMLQBdHVWp5bE9a9mAql99UzdHTnkcveetAQ05+YHHvQwbFVWIC04QCJ51DcsZqqMgJoeYRovT4WG329nZYdrJHBsZ8eje9Rn7sEyPsAol3WlwlXRwr2h6sT4HaKF8JDX3ZDEgwTqpAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAzVVk3HdlHPawDwvuqOxOxMzPsm1uqzG3GPCynjT63xhHzprMRi9nUkVteKOj6z1DzlqpkD0CoAhhbiAroqq8E7Gmxy7/4J7OXBLH9yVEzonPKrZgJzFeKG1lraWVXJ35wac7qIWnddBTkYm20bzdky3qFKxaXVdgf9CnpsemwJk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

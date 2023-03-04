@@ -1,0 +1,72 @@
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe.config
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe.manifest
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.application
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.pdb
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\SpreadsheetLight.dll
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\System.Drawing.Common.dll
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\System.IO.Packaging.dll
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\SpreadsheetLight.xml
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\bin\Release\System.IO.Packaging.xml
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.AM_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.A_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.DM_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.D_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.HojaDeTrabajoNiosh.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.TablaFrecuenciaForm.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.HM_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.H_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.LC_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.L_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.Portada.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.Properties.Resources.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.TablaAcoplamiento.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.VM_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.V_Form.resources
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.GenerateResource.cache
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.exe.manifest
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.application
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.CopyComplete
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.exe
+C:\Users\uriel\source\repos\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.pdb
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe.config
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe.manifest
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.application
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.exe
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\MetodoNiosh.pdb
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\DocumentFormat.OpenXml.dll
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\SpreadsheetLight.dll
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\System.Drawing.Common.dll
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\System.IO.Packaging.dll
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\DocumentFormat.OpenXml.xml
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\SpreadsheetLight.xml
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\bin\Release\System.IO.Packaging.xml
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.AssemblyReference.cache
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.SuggestedBindingRedirects.cache
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.AM_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.A_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.DM_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.D_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.HojaDeTrabajoNiosh.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.TablaFrecuenciaForm.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.HM_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.H_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.LC_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.L_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.Portada.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.Properties.Resources.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.TablaAcoplamiento.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.VM_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.V_Form.resources
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.GenerateResource.cache
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.CoreCompileInputs.cache
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.exe.manifest
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.application
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.csproj.CopyComplete
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.exe
+E:\Materias rehabilitacion casa caro\Temas selectos mecatronica 1\Proyecto final\Archivos del programa\Visual Studio\MetodoNiosh\MetodoNiosh\obj\Release\MetodoNiosh.pdb
