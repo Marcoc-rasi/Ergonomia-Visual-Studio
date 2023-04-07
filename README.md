@@ -6,3 +6,4 @@
 - The data sheet obtained can be saved as an Excel, pdf or image file, in the location desired by the user.
 - The repository includes the program files, the Excel files with the input and output data, the supporting images and the sample results.
 - To run the application, you need to have Visual Studio installed and .net Framework 4.7.2 or higher.
+- The .exe executable also exists within the folder.
